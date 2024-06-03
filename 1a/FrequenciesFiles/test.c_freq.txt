@@ -1,0 +1,79 @@
+Frequency Analysis of the test.c program :
+
+Character Frequency Analysis:
+' ': 145
+'!': 1
+'"': 10
+'#': 3
+'%': 5
+'(': 9
+')': 9
+'*': 3
+'+': 4
+',': 5
+'.': 2
+'/': 4
+'0': 5
+'1': 3
+'2': 2
+'4': 1
+'5': 2
+';': 11
+'<': 2
+'=': 6
+'>': 2
+'A': 6
+'E': 8
+'G': 4
+'H': 4
+'I': 1
+'L': 3
+'M': 5
+'N': 8
+'P': 2
+'R': 1
+'T': 4
+'W': 1
+'X': 3
+'Y': 2
+'[': 1
+'\': 3
+']': 1
+'_': 6
+'a': 14
+'c': 5
+'d': 8
+'e': 13
+'f': 10
+'g': 2
+'h': 3
+'i': 21
+'l': 6
+'m': 10
+'n': 24
+'o': 10
+'p': 4
+'r': 16
+'s': 5
+'t': 14
+'u': 8
+'w': 1
+'x': 1
+'{': 3
+'}': 3
+
+Reserved Word Frequency Analysis:
+printf: 4
+int: 3
+#define: 2
+float: 1
+char: 1
+#include: 1
+scanf: 1
+if: 1
+for: 1
+return: 1
+
+Comment Analysis:
+Single-line comments: 1
+Multi-line comments: 1
