@@ -11,3 +11,13 @@ Coursework programs organised by assignment number (`1a`, `1b`, ...).
 ## License
 
 MIT - see [LICENSE](LICENSE).
+
+## Running
+
+**Coursework - C programs**
+
+```bash
+gcc 1a/<file>.c -o out && ./out
+```
+
+Programs are grouped by assignment number (`1a`, `1b`, ...).
